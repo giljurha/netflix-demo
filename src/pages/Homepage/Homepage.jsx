@@ -1,6 +1,6 @@
 import React from 'react'
 import Banner from './components/Banner/Banner'
-import PopularMovieSlide from './components/PopularMovieSlide/PopularMovieSlide'
+import PopularMovieSlide from '../PopularMovieSlide/PopularMovieSlide'
 
 const Homepage = () => {
   return (

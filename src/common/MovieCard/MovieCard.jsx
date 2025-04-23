@@ -2,7 +2,7 @@ import React from 'react'
 import { Badge } from 'react-bootstrap';
 import './MovieCard.style.css';
 
-const MovieCard = ({movie, }) => {
+const MovieCard = ({ movie }) => {
     const moveList = {
         28: "Action",
         12: "Adventure",

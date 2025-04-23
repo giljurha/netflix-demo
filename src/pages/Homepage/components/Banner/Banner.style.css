@@ -29,6 +29,6 @@
 
 @media (max-width: 768px) {
     .banner-text-area {
-        display: none;
+        width: 100%;
     }
 }
